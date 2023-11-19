@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://i.pinimg.com/originals/16/a4/56/16a456a7d2fcbd9addc664458d2e1729.gif"  />
+<img align="right" height="150" width="300" src="https://i.pinimg.com/originals/16/a4/56/16a456a7d2fcbd9addc664458d2e1729.gif"  />
 
 ###
 
